@@ -1,2 +1,2 @@
 # hello-world
-I major in business Administration and minonr on Computer Science. 
+I major in Business Administration and minor in Computer Science. 
